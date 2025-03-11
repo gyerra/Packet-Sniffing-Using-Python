@@ -1,0 +1,100 @@
+Ether / IP / TCP 172.217.174.78:https > 10.250.3.246:51089 FA / Padding
+Ether / IP / TCP 10.250.3.246:51089 > 172.217.174.78:https A
+Ether / IPv6 / UDP fe80::9ea0:59d4:9c37:d1b1:51147 > ff02::1:3:llmnr / LLMNRQuery who has 'Shashanth.'
+Ether / IP / UDP 10.250.1.248:51147 > 224.0.0.252:llmnr / LLMNRQuery who has 'Shashanth.'
+Ether / IP / UDP / NBNSHeader / NBNSQueryRequest who has '\\DESKTOP-64K6FQN'
+Ether / ARP who has 10.250.6.23 says 10.250.6.158 / Padding
+Ether / IP / UDP / mDNS Qry b'MSI(28)._dosvc._tcp.local.'
+Ether / IPv6 / UDP / mDNS Qry b'MSI(28)._dosvc._tcp.local.'
+Ether / IP / UDP / mDNS Ans
+Ether / IPv6 / UDP / mDNS Ans
+Ether / IP / UDP / mDNS Qry b'MSI(29)._dosvc._tcp.local.'
+Ether / IPv6 / UDP / mDNS Qry b'MSI(29)._dosvc._tcp.local.'
+Ether / ARP who has 10.250.3.225 says 10.250.3.150 / Padding
+Ether / IP / UDP / mDNS Ans b'Android-30.local.'
+Ether / IPv6 / UDP / mDNS Ans b'Android-30.local.'
+Ether / IP / UDP / mDNS Qry b'_microsoft_mcc._tcp.local.'
+Ether / IP / UDP / mDNS Qry b'_microsoft_mcc._tcp.local.'
+Ether / IPv6 / UDP / mDNS Qry b'_microsoft_mcc._tcp.local.'
+Ether / IPv6 / UDP fe80::bf6e:92fb:66bb:468e:61727 > ff02::1:3:llmnr / LLMNRQuery who has 'UTKARSH_HP.'
+Ether / IP / UDP 10.250.4.251:61727 > 224.0.0.252:llmnr / LLMNRQuery who has 'UTKARSH_HP.'
+Ether / ARP who has 10.250.7.149 says 10.250.5.92 / Padding
+Ether / ARP who has 10.250.1.1 says 10.250.10.186 / Padding
+Ether / ARP who has 10.250.8.68 says 10.250.5.44 / Padding
+Ether / IP / UDP / mDNS Qry b'AkhilChunduri._dosvc._tcp.local.'
+Ether / IPv6 / UDP / mDNS Qry b'AkhilChunduri._dosvc._tcp.local.'
+Ether / IP / UDP / mDNS Qry b'KARTHIK(1)._dosvc._tcp.local.'
+Ether / IPv6 / UDP / mDNS Qry b'KARTHIK(1)._dosvc._tcp.local.'
+Ether / IPv6 / UDP / mDNS Qry b'_microsoft_mcc._tcp.local.'
+Ether / IP / UDP / mDNS Qry b'LAPTOP-77NB7B2I._dosvc._tcp.local.'
+Ether / IPv6 / UDP / mDNS Qry b'LAPTOP-77NB7B2I._dosvc._tcp.local.'
+Ether / ARP who has 10.250.7.169 says 10.250.7.220 / Padding
+Ether / IPv6 / IPv6ExtHdrFragment / UDP / mDNS Ans
+Ether / fe80::cde:f189:e912:b54c > ff02::fb (44) / IPv6ExtHdrFragment / Raw
+Ether / IP / UDP / mDNS Ans
+Ether / 10.250.5.147 > 224.0.0.251 udp frag:185 / Raw
+Ether / IPv6 / UDP / mDNS Ans
+Ether / IP / UDP / mDNS Ans
+Ether / IP / UDP / mDNS Qry b'_dosvc._tcp.local.'
+Ether / IPv6 / UDP / mDNS Qry b'_dosvc._tcp.local.'
+Ether / ARP who has 10.250.6.206 says 10.250.2.17 / Padding
+Ether / ARP who has 10.250.18.125 says 10.250.6.227 / Padding
+Ether / IP / UDP / mDNS Qry b'LAPTOP-4B3Q0GP3._dosvc._tcp.local.'
+Ether / ARP who has 10.250.5.233 says 10.250.6.148 / Padding
+Ether / ARP who has 10.250.1.1 says 10.250.8.199 / Padding
+Ether / IPv6 / UDP / mDNS Qry b'LAPTOP-4B3Q0GP3._dosvc._tcp.local.'
+Ether / ARP who has 10.250.6.206 says 10.250.8.22 / Padding
+Ether / IP / UDP / mDNS Qry b'MSI(30)._dosvc._tcp.local.'
+Ether / IPv6 / UDP / mDNS Qry b'MSI(30)._dosvc._tcp.local.'
+Ether / ARP who has 10.250.6.206 says 10.250.6.104 / Padding
+Ether / ARP who has 10.250.8.23 says 10.250.2.241 / Padding
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52765 A / Padding
+Ether / IP / UDP 192.168.29.202:51481 > 192.168.29.255:5775 / Raw
+Ether / IP / TCP 192.168.29.168:52764 > 104.211.241.114:http PA / Raw
+Ether / IPv6 / TCP 2405:201:c00a:500b:607e:f741:bf2d:d6ed:52681 > 2a04:4e42:9::684:http FA
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52764 A / Padding
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52765 PA / Raw
+Ether / IP / TCP 192.168.29.168:52765 > 104.211.241.114:http A
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52765 A / Raw
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52765 PA / Raw
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52765 PA / Raw
+Ether / IP / TCP 192.168.29.168:52765 > 104.211.241.114:http A
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52765 PA / Raw
+Ether / IP / TCP 192.168.29.168:52765 > 104.211.241.114:http A
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52765 A / Raw
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52765 PA / Raw
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52765 A / Raw
+Ether / IP / TCP 192.168.29.168:52765 > 104.211.241.114:http A
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52765 A / Raw
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52765 PA / Raw
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52765 A / Raw
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52765 A / Raw
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52765 PA / Raw
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52765 A / Raw
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52765 A / Raw
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52765 PA / Raw
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52765 A / Raw
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52765 A / Raw
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52765 PA / Raw
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52765 A / Raw
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52765 A / Raw
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52765 A / Raw
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52765 PA / Raw
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52765 A / Raw
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52765 A / Raw
+Ether / IP / TCP 192.168.29.168:52765 > 104.211.241.114:http A
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52765 A / Raw
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52765 PA / Raw
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52765 A / Raw
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52765 A / Raw
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52765 A / Raw
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52765 PA / Raw
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52765 A / Raw
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52765 A / Raw
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52765 A / Raw
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52765 PA / Raw
+Ether / IP / TCP 192.168.29.168:52765 > 104.211.241.114:http A
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52764 A / Raw
+Ether / IP / TCP 192.168.29.168:52764 > 104.211.241.114:http A
+Ether / IP / TCP 192.168.29.168:52765 > 104.211.241.114:http PA / Raw
+Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52764 A / Raw
