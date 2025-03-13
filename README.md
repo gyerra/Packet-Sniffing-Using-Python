@@ -4,20 +4,25 @@ This project analyzes network traffic from a `.pcap` file using **Scapy** and vi
 It helps in understanding packet distribution, source activity, and protocol usage.
 
 ## 📂 **Project Structure**
-📦 network-traffic-analyzer
-│-- 📂 logs/                # Directory to store captured .pcap files
-│   ├── sniffed_packets.pcap  # Sample pcap file (replace with your own)
+📦 PACKET_SNIFFER
+│-- 📂 logs/                 # Directory to store captured packet data
+│   ├── sniffed_packets.pcap  # Captured network traffic in PCAP format
+│   ├── sniffed_packets.txt   # Extracted packet details in text format
 │
-│-- 📜 visualize_pcap.py     # Python script to analyze & visualize network traffic
-│-- 📜 sniff_packets.py      # (Optional) Script to capture live network traffic and save it as a .pcap file
-│-- 📜 requirements.txt      # Dependencies list
-│-- 📜 README.md             # Project documentation (this file)
+│-- 📜 main.py                # Main script to run the packet sniffer
+│-- 📜 analyze_pcap.py        # Script to analyze the pcap file
+│-- 📜 visualize_pcap.py      # Script to visualize network traffic from pcap file
+│-- 📜 packet_utils.py        # Utility functions for packet processing
+│-- 📜 requirements.txt       # Dependencies list
+│-- 📜 Figure_1.png           # Sample visualization output
+│-- 📂 __pycache__/           # Python cache directory (auto-generated)
+
 
 
 🛠️ **Installation**
 1️⃣ **Clone the Repository**
-git clone https://github.com/your-username/network-traffic-analyzer.git
-cd network-traffic-analyzer
+git clone https://github.com/gyerra/packet-sniffer.git
+cd packet-sniffer
 2️⃣ Install Dependencies
 pip install -r requirements.txt
 3️⃣ Prepare a .pcap File
