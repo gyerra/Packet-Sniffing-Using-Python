@@ -21,7 +21,7 @@ It helps in understanding packet distribution, source activity, and protocol usa
 
 🛠️ **Installation**
 1️⃣ **Clone the Repository**
-git clone https://github.com/gyerra/packet-sniffer.git
+git clone https://github.com/gyerra/Packet-Sniffing-Using-Python.git
 cd packet-sniffer
 2️⃣ Install Dependencies
 pip install -r requirements.txt
