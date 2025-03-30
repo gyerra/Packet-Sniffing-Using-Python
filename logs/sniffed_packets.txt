@@ -98,3 +98,53 @@ Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52764 A / Raw
 Ether / IP / TCP 192.168.29.168:52764 > 104.211.241.114:http A
 Ether / IP / TCP 192.168.29.168:52765 > 104.211.241.114:http PA / Raw
 Ether / IP / TCP 104.211.241.114:http > 192.168.29.168:52764 A / Raw
+Ether / IP / UDP 192.168.29.202:53833 > 192.168.29.255:5775 / Raw
+Ether / IP / UDP / DNS Qry b'live-jiol.cdn.hotstar.com.'
+Ether / IP / UDP / DNS Qry b'live-jiol.cdn.hotstar.com.'
+Ether / IP / UDP / DNS Qry b'live-jiol.cdn.hotstar.com.'
+Ether / IPv6 / TCP 2405:201:c00a:500b:dd29:120f:119a:b35:55016 > 2405:200:160a:1916:76::10:https PA / Raw
+Ether / IP / UDP / DNS Ans b'hotstar-vip-fa.cdn.jio.com.'
+Ether / IP / UDP / DNS Ans b'hotstar-vip-fa.cdn.jio.com.'
+Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 A
+Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 A / Raw
+Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 PA / Raw
+Ether / IPv6 / TCP 2405:201:c00a:500b:dd29:120f:119a:b35:55016 > 2405:200:160a:1916:76::10:https A
+Ether / IP / UDP / DNS Ans b'hotstar-vip-fa.cdn.jio.com.'
+Ether / IPv6 / TCP 2405:201:c00a:500b:dd29:120f:119a:b35:55016 > 2405:200:160a:1916:76::10:https PA / Raw
+Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 A
+Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 PA / Raw
+Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 A / Raw
+Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 A / Raw
+Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 A / Raw
+Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 A / Raw
+Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 A / Raw
+Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 A / Raw
+Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 A / Raw
+Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 A / Raw
+Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 A / Raw
+Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 A / Raw
+Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 A / Raw
+Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 A / Raw
+Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 A / Raw
+Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 A / Raw
+Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 A / Raw
+Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 PA / Raw
+Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 A / Raw
+Ether / IPv6 / TCP 2405:201:c00a:500b:dd29:120f:119a:b35:55016 > 2405:200:160a:1916:76::10:https A
+Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 PA / Raw
+Ether / IPv6 / TCP 2405:201:c00a:500b:dd29:120f:119a:b35:55016 > 2405:200:160a:1916:76::10:https A
+Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 PA / Raw
+Ether / IPv6 / TCP 2405:201:c00a:500b:dd29:120f:119a:b35:55016 > 2405:200:160a:1916:76::10:https A
+Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 A / Raw
+Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 A / Raw
+Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 A / Raw
+Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 A / Raw
+Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 A / Raw
+Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 A / Raw
+Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 A / Raw
+Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 A / Raw
+Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 A / Raw
+Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 A / Raw
+Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 A / Raw
+Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 A / Raw
+Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 A / Raw
