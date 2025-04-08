@@ -148,3 +148,103 @@ Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120
 Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 A / Raw
 Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 A / Raw
 Ether / IPv6 / TCP 2405:200:160a:1916:76::10:https > 2405:201:c00a:500b:dd29:120f:119a:b35:55016 A / Raw
+Ether / IP / TCP 54.185.217.227:https > 192.168.29.168:51411 A
+Ether / IP / TCP 54.185.217.227:https > 192.168.29.168:51411 A / Raw
+Ether / IP / TCP 54.185.217.227:https > 192.168.29.168:51411 PA / Raw
+Ether / IP / TCP 192.168.29.168:51411 > 54.185.217.227:https A
+Ether / IP / TCP 192.168.29.168:51411 > 54.185.217.227:https PA / Raw
+Ether / IP / TCP 192.168.29.168:51411 > 54.185.217.227:https PA / Raw
+Ether / IP / TCP 192.168.29.168:51411 > 54.185.217.227:https PA / Raw
+Ether / IP / TCP 192.168.29.168:51411 > 54.185.217.227:https A / Raw
+Ether / IP / TCP 192.168.29.168:51411 > 54.185.217.227:https A / Raw
+Ether / IP / TCP 192.168.29.168:51411 > 54.185.217.227:https PA / Raw
+Ether / IP / TCP 192.168.29.168:51403 > 140.82.114.22:https A
+Ether / IP / TCP 52.182.143.211:https > 192.168.29.168:51407 A / Raw
+Ether / IP / TCP 192.168.29.168:51407 > 52.182.143.211:https A
+Ether / IP / TCP 52.182.143.211:https > 192.168.29.168:51407 PA / Raw
+Ether / IP / TCP 192.168.29.168:51407 > 52.182.143.211:https A
+Ether / IP / TCP 192.168.29.168:51407 > 52.182.143.211:https PA / Raw
+Ether / IP / TCP 192.168.29.168:51407 > 52.182.143.211:https PA / Raw
+Ether / IP / TCP 192.168.29.168:51399 > 192.168.29.1:domain S
+Ether / IP / TCP 192.168.29.168:51398 > 192.168.29.1:domain S
+Ether / IP / TCP 192.168.29.168:51397 > 192.168.29.1:domain S
+Ether / IP / TCP 54.185.217.227:https > 192.168.29.168:51412 A
+Ether / IP / TCP 54.185.217.227:https > 192.168.29.168:51412 A / Raw
+Ether / IP / TCP 54.185.217.227:https > 192.168.29.168:51412 PA / Raw
+Ether / IP / TCP 192.168.29.168:51412 > 54.185.217.227:https A
+Ether / IP / TCP 192.168.29.168:51412 > 54.185.217.227:https PA / Raw
+Ether / IPv6 / TCP 2405:201:c00a:500b:6c94:2f24:ba89:c0a3:51408 > 2405:201:c00a:500b::c0a8:1d01:domain S
+Ether / IPv6 / TCP 2405:201:c00a:500b:6c94:2f24:ba89:c0a3:51410 > 2405:201:c00a:500b::c0a8:1d01:domain S
+Ether / IPv6 / TCP 2405:201:c00a:500b:6c94:2f24:ba89:c0a3:51409 > 2405:201:c00a:500b::c0a8:1d01:domain S
+Ether / IP / TCP 54.185.217.227:https > 192.168.29.168:51411 A
+Ether / IP / TCP 54.185.217.227:https > 192.168.29.168:51411 A
+Ether / IP / TCP 54.185.217.227:https > 192.168.29.168:51411 PA / Raw
+Ether / IP / TCP 54.185.217.227:https > 192.168.29.168:51411 PA / Raw
+Ether / IP / TCP 192.168.29.168:51411 > 54.185.217.227:https A
+Ether / IP / TCP 192.168.29.168:51411 > 54.185.217.227:https PA / Raw
+Ether / IP / TCP 54.185.217.227:https > 192.168.29.168:51411 PA / Raw
+Ether / IP / TCP 54.185.217.227:https > 192.168.29.168:51411 PA / Raw
+Ether / IP / TCP 192.168.29.168:51411 > 54.185.217.227:https A
+Ether / IP / TCP 52.182.143.211:https > 192.168.29.168:51407 PA / Raw
+Ether / IP / TCP 192.168.29.168:51407 > 52.182.143.211:https A
+Ether / IP / TCP 52.182.143.211:https > 192.168.29.168:51407 A
+Ether / IP / TCP 54.185.217.227:https > 192.168.29.168:51412 PA / Raw
+Ether / IP / TCP 54.185.217.227:https > 192.168.29.168:51412 PA / Raw
+Ether / IP / TCP 54.185.217.227:https > 192.168.29.168:51411 A
+Ether / IP / TCP 192.168.29.168:51412 > 54.185.217.227:https A
+Ether / IPv6 / UDP / DNS Qry b'forgooditjxygd.dataplane.rudderstack.com.'
+Ether / IPv6 / UDP / DNS Qry b'telemetry.individual.githubcopilot.com.'
+Ether / IPv6 / UDP / DNS Ans
+Ether / IPv6 / UDP / DNS Ans b'copilot-telemetry-service.githubusercontent.com.'
+Ether / IP / TCP 192.168.29.168:51413 > 34.194.111.92:https S
+Ether / IP / TCP 192.168.29.168:51414 > 140.82.113.21:https S
+Ether / IP / TCP 13.107.6.175:https > 192.168.29.168:50843 A
+Ether / ARP who has 192.168.29.180 says 192.168.29.1
+Ether / IP / TCP 20.189.173.16:https > 192.168.29.168:50940 A / Raw
+Ether / IP / TCP 20.189.173.16:https > 192.168.29.168:50940 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:50::12:https > 2405:201:c00a:500b:94:80f5:4d97:97ec:50400 PA / Raw
+Ether / IP / TCP 192.168.29.168:50940 > 20.189.173.16:https A
+Ether / IP / TCP 192.168.29.168:50940 > 20.189.173.16:https A / Raw
+Ether / IP / TCP 192.168.29.168:50940 > 20.189.173.16:https PA / Raw
+Ether / IPv6 / TCP 2405:201:c00a:500b:94:80f5:4d97:97ec:50400 > 2620:1ec:50::12:https PA / Raw
+Ether / IPv6 / TCP 2405:201:c00a:500b:94:80f5:4d97:97ec:50400 > 2620:1ec:50::12:https PA / Raw
+Ether / IPv6 / TCP 2620:1ec:50::12:https > 2405:201:c00a:500b:94:80f5:4d97:97ec:50400 A
+Ether / 192.168.29.168 > 224.0.0.22 2 / Raw
+Ether / IP / TCP 20.189.173.16:https > 192.168.29.168:50940 A
+Ether / IP / TCP 20.189.173.16:https > 192.168.29.168:50940 PA / Raw
+Ether / IP / TCP 192.168.29.168:50940 > 20.189.173.16:https A
+Ether / IPv6 / TCP 2405:201:c00a:500b:94:80f5:4d97:97ec:50840 > 2405:200:1608:1731::b854:e818:https A / Raw
+Ether / IPv6 / TCP 2405:200:1608:1731::b854:e818:https > 2405:201:c00a:500b:94:80f5:4d97:97ec:50840 A
+Ether / IP / TCP 20.189.173.16:https > 192.168.29.168:50940 FPA / Raw
+Ether / IP / TCP 192.168.29.168:50940 > 20.189.173.16:https A
+Ether / IP / TCP 192.168.29.168:50940 > 20.189.173.16:https PA / Raw
+Ether / IP / TCP 192.168.29.168:50940 > 20.189.173.16:https FA
+Ether / IPv6 / TCP 2405:201:c00a:500b:94:80f5:4d97:97ec:50839 > 2405:200:1608:1731::b854:e818:https A / Raw
+Ether / ARP who has 192.168.29.180 says 192.168.29.1
+Ether / IP / UDP 192.168.29.202:46312 > 192.168.29.255:5775 / Raw
+Ether / IPv6 / TCP 2405:200:1608:1731::b854:e818:https > 2405:201:c00a:500b:94:80f5:4d97:97ec:50839 A
+Ether / IPv6 / TCP 2405:201:c00a:500b:94:80f5:4d97:97ec:50669 > 2620:1ec:50::12:https A / Raw
+Ether / IPv6 / TCP 2620:1ec:50::12:https > 2405:201:c00a:500b:94:80f5:4d97:97ec:50669 A
+Ether / IP / TCP 20.189.173.16:https > 192.168.29.168:50940 A
+Ether / IP / TCP 192.168.29.168:50834 > 52.168.112.67:https PA / Raw
+Ether / IP / TCP 192.168.29.168:50834 > 52.168.112.67:https A / Raw
+Ether / IP / TCP 192.168.29.168:50834 > 52.168.112.67:https A / Raw
+Ether / IP / TCP 192.168.29.168:50834 > 52.168.112.67:https A / Raw
+Ether / IP / TCP 192.168.29.168:50834 > 52.168.112.67:https A / Raw
+Ether / IP / TCP 192.168.29.168:50834 > 52.168.112.67:https A / Raw
+Ether / IP / TCP 192.168.29.168:50834 > 52.168.112.67:https A / Raw
+Ether / IP / TCP 192.168.29.168:50834 > 52.168.112.67:https A / Raw
+Ether / IP / TCP 192.168.29.168:50834 > 52.168.112.67:https A / Raw
+Ether / IP / TCP 192.168.29.168:50834 > 52.168.112.67:https A / Raw
+Ether / IP / TCP 192.168.29.168:50834 > 52.168.112.67:https PA / Raw
+Ether / ARP who has 192.168.29.180 says 192.168.29.1
+Ether / IP / TCP 52.168.112.67:https > 192.168.29.168:50834 A / Padding
+Ether / IP / TCP 52.168.112.67:https > 192.168.29.168:50834 A / Padding
+Ether / IP / TCP 52.168.112.67:https > 192.168.29.168:50834 A / Padding
+Ether / IP / TCP 52.168.112.67:https > 192.168.29.168:50834 PA / Raw
+Ether / IP / TCP 192.168.29.168:50834 > 52.168.112.67:https PA / Raw
+Ether / IP / TCP 52.168.112.67:https > 192.168.29.168:50834 A / Padding
+Ether / ARP who has 192.168.29.180 says 192.168.29.1
+Ether / IP / UDP 192.168.29.202:46312 > 192.168.29.255:5775 / Raw
+Ether / IP / TCP 192.168.29.168:50834 > 52.168.112.67:https PA / Raw
+Ether / IP / TCP 192.168.29.168:50834 > 52.168.112.67:https A / Raw
